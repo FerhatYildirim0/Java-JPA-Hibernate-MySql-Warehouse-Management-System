@@ -7,19 +7,20 @@
 | Dil / Yetenek|:arrow_right:   | % |
 | ------------- |:-------------:|:-------------:|
 | JAVA       | ➡️   | 90 |
-| SERVLET     | ➡️ | 70 |
-| MYSQL      | ➡️ | 60 |
+| SERVLET     | ➡️ | 60 |
+| MYSQL      | ➡️ | 70 |
+| HIBERNATE     | ➡️ | 70 |
+| JPA      | ➡️ | 50 |
 
 ## Uygulama Açıklaması
     
-Bu uygulama, kişisel yazıların kaydedilip okuyuculara sunulduğu bir web sitesidir.
+Bu uygulama, bir stok yönetim sistemidir. Sistemde müşteri, ürün ve kasa ile ilgili bilgiler saklanabilmektedir. 
 
-Ana sayfada bulunan yazıların daha detaylı okunabilmesi için üstüne tıklayıp daha geniş bir pencereye geçmek gerekmektedir.
+Müşteriye istediği ürün satıldıktan sonra kendisi için belirlenen fiş numarası ile ödeme yapabilir. 
 
-Yazı ekleyebilmek, düzenleyebilmek ve silebilmek için kayıt olunmalıdır. Kayıt edilen kullanıcının şifresi şifrelenmiş 
-halde saklanmaktadır. Her kullanıcı sadece kendi yazısı üstünde hakimiyet kurabilmektedir.
+Herhangi bir sayfaya kullanıcı girişi yapmadan erişim sağlanamaz.
 
-Not: Blog yazıları üstünde düzenleme yapabilmek için giriş yapmak gerekmektedir.
+Not: Sistemi kullanabilmek için giriş yapmak gerekmektedir.
 
 Kullanıcı Adı : ``` ferhat@mail.com``` Şifre : 12345  
 
