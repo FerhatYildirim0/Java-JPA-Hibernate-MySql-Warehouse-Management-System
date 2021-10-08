@@ -1,4 +1,4 @@
-# Java Servlet MySql Blog Project
+#  Java JPA Hibernate MySql Warehouse Management System
 
 
 
