@@ -14,11 +14,13 @@
 
 ## Uygulama Açıklaması
     
-Bu uygulama, bir stok yönetim sistemidir. Sistemde müşteri, ürün ve kasa ile ilgili bilgiler saklanabilmektedir. 
+Bu uygulama, bir stok yönetim sistemidir. Sistemde müşteri, ürün ve kasa ile ilgili bilgiler saklanabilmektedir.
+Kasa bölümündeki ödeme çıkışı haricindeki her bölümde düzenleme işlemi yapılabilmektedir.
 
 Müşteriye istediği ürün satıldıktan sonra kendisi için belirlenen fiş numarası ile ödeme yapabilir. 
 
 Herhangi bir sayfaya kullanıcı girişi yapmadan erişim sağlanamaz.
+
 
 Not: Sistemi kullanabilmek için giriş yapmak gerekmektedir.
 
